@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CoverToSql": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\nfalves\\Downloads\\RITM1597913\\SELECT1.xlsx\" -t \"[PODC].[Tb_Timeline]\""
+    }
+  }
+}
